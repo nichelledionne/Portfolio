@@ -1,5 +1,6 @@
 # Information Technology Associate Professor
 
+
 ### Education
 Computer Science, BS
 Training and Development / Curriculum Design, MA
